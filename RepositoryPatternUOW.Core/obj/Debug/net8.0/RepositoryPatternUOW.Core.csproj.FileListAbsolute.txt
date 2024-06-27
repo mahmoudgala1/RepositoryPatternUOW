@@ -1,0 +1,11 @@
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.Core\bin\Debug\net8.0\RepositoryPatternUOW.Core.deps.json
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.Core\bin\Debug\net8.0\RepositoryPatternUOW.Core.dll
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.Core\bin\Debug\net8.0\RepositoryPatternUOW.Core.pdb
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.Core\obj\Debug\net8.0\RepositoryPatternUOW.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.Core\obj\Debug\net8.0\RepositoryPatternUOW.Core.AssemblyInfoInputs.cache
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.Core\obj\Debug\net8.0\RepositoryPatternUOW.Core.AssemblyInfo.cs
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.Core\obj\Debug\net8.0\RepositoryPatternUOW.Core.csproj.CoreCompileInputs.cache
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.Core\obj\Debug\net8.0\RepositoryPatternUOW.Core.dll
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.Core\obj\Debug\net8.0\refint\RepositoryPatternUOW.Core.dll
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.Core\obj\Debug\net8.0\RepositoryPatternUOW.Core.pdb
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.Core\obj\Debug\net8.0\ref\RepositoryPatternUOW.Core.dll

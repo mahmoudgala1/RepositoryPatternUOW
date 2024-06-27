@@ -1,0 +1,17 @@
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.EF\bin\Debug\net8.0\RepositoryPatternUOW.EF.deps.json
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.EF\bin\Debug\net8.0\RepositoryPatternUOW.EF.runtimeconfig.json
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.EF\bin\Debug\net8.0\RepositoryPatternUOW.EF.dll
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.EF\bin\Debug\net8.0\RepositoryPatternUOW.EF.pdb
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net8.0\RepositoryPatternUOW.EF.csproj.AssemblyReference.cache
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net8.0\RepositoryPatternUOW.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net8.0\RepositoryPatternUOW.EF.AssemblyInfoInputs.cache
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net8.0\RepositoryPatternUOW.EF.AssemblyInfo.cs
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net8.0\RepositoryPatternUOW.EF.csproj.CoreCompileInputs.cache
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net8.0\RepositoryPatternUOW.EF.dll
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net8.0\refint\RepositoryPatternUOW.EF.dll
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net8.0\RepositoryPatternUOW.EF.pdb
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net8.0\RepositoryPatternUOW.EF.genruntimeconfig.cache
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net8.0\ref\RepositoryPatternUOW.EF.dll
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.EF\bin\Debug\net8.0\RepositoryPatternUOW.Core.dll
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.EF\bin\Debug\net8.0\RepositoryPatternUOW.Core.pdb
+D:\C#\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net8.0\Reposito.03FFD60F.Up2Date

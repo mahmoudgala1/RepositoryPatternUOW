@@ -1,0 +1,6 @@
+@RepositoryPatternUOW.Api_HostAddress = http://localhost:5148
+
+GET {{RepositoryPatternUOW.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

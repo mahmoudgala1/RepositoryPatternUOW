@@ -1,0 +1,190 @@
+[
+  {
+    "ContainingType": "RepositoryPatternUOW.Api.Controllers.AuthorsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Authors/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPatternUOW.Api.Controllers.AuthorsController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/Authors/GetAllAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPatternUOW.Api.Controllers.AuthorsController",
+    "Method": "GetById",
+    "RelativePath": "api/Authors/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPatternUOW.Api.Controllers.AuthorsController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/Authors/GetByIdAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPatternUOW.Api.Controllers.AuthorsController",
+    "Method": "GetByName",
+    "RelativePath": "api/Authors/GetByName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPatternUOW.Api.Controllers.AuthorsController",
+    "Method": "GetByNameAsync",
+    "RelativePath": "api/Authors/GetByNameAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPatternUOW.Api.Controllers.BooksController",
+    "Method": "AddOne",
+    "RelativePath": "api/Books/AddOne",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPatternUOW.Api.Controllers.BooksController",
+    "Method": "GetAll",
+    "RelativePath": "api/Books/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPatternUOW.Api.Controllers.BooksController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/Books/GetAllAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPatternUOW.Api.Controllers.BooksController",
+    "Method": "GetById",
+    "RelativePath": "api/Books/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPatternUOW.Api.Controllers.BooksController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/Books/GetByIdAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPatternUOW.Api.Controllers.BooksController",
+    "Method": "GetByName",
+    "RelativePath": "api/Books/GetByTitle",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPatternUOW.Api.Controllers.BooksController",
+    "Method": "GetByTitleAsync",
+    "RelativePath": "api/Books/GetByTitleAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RepositoryPatternUOW.Api.Controllers.BooksController",
+    "Method": "GetOrderd",
+    "RelativePath": "api/Books/GetOrderd",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
